@@ -5,7 +5,8 @@ mac-os-x-automatization
 
 >Open terminal and run:
 >`osacompile -o dest_file src_file`
->when `dest_file` - destination file .app, `src_file` - source file .scpt
+> *`dest_file` - destination file .app
+> *`src_file` - source file .scpt
 
 ![example](http://i.imgur.com/C7ezhcc.png)
 -----------------------
